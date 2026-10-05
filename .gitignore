@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+.env
+.env.*
+*.key
+*.pem
+project-state.md
+accepted-takes.md
+outputs/
+before/

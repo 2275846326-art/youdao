@@ -1,0 +1,6 @@
+interface:
+  display_name: "柚导"
+  short_description: "通用导演与制片：匹配口播画面、设计分镜、调用生图制作关键帧，统筹多路径制作与验收"
+  default_prompt: "使用 $youdao，结合当前文案、素材和项目要求，推荐匹配画面与制作方式；需要出图时调用生图工具制作并检查关键帧，推进实际交付。"
+policy:
+  allow_implicit_invocation: true
